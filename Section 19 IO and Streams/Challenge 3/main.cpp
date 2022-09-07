@@ -27,7 +27,6 @@ int main()
         if (word.find(substring_search) != string::npos)
         {
             number_of_substring_found++;
-            cout << word << " ";
         }
         number_of_total_words++;
     }
