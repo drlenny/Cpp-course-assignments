@@ -33,8 +33,6 @@ int main()
 
     cout << number_of_total_words << " words were searched..." << endl;
 
-    cout << substring_search.length() << endl;
-
     cout << "The substring " << substring_search << " was found " << number_of_substring_found << " times" << endl;
 
     cout << endl;
